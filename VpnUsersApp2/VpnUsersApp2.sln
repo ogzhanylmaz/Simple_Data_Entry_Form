@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VpnUsersApp2", "VpnUsersApp2\VpnUsersApp2.vbproj", "{0B3A037F-985D-4180-AE66-BE5DB97A4452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3A037F-985D-4180-AE66-BE5DB97A4452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3A037F-985D-4180-AE66-BE5DB97A4452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3A037F-985D-4180-AE66-BE5DB97A4452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3A037F-985D-4180-AE66-BE5DB97A4452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718EE69D-CE7A-4E89-835E-3ACA057BF1B6}
+	EndGlobalSection
+EndGlobal

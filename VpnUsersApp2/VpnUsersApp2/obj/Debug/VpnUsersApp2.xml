@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VpnUsersApp2
+</name>
+</assembly>
+<members>
+<member name="T:VpnUsersApp2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_1_04_511562_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_document_pencil_49370_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_edit_clear_118917_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_edit_find_replace_118921_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_edit_select_all_118925_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_EditDocument_728933_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_floppy_285657_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_id_card_job_seeker_employee_unemployee_work_2620518_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_system_search_118797_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_vector_66_12_473633_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_view_refresh_118801_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VpnUsersApp2.My.Resources.Resources.iconfinder_x_office_spreadsheet_118903_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
